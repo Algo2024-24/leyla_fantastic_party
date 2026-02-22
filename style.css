@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.production{
+    background-color: rgb(200, 242, 137);
+    padding: 20px;
+}
+
+.season{
+    border: 2px solid blue;
+    border-radius: 50px;
+}
